@@ -1,7 +1,7 @@
 [general]
 name=Bac Area Update Plugin
 description=A plugin to update area fields for selected features
-version=1.1
+version=1.2
 qgisMinimumVersion=3.0
 author=Jack Nguyen
 email=jacknguyen2025@gmail.com
